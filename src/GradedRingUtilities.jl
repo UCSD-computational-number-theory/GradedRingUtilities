@@ -1,5 +1,8 @@
 module GradedRingUtilities
 
+using Oscar
+using LinearAlgebra
+
 include("GradedExpCache.jl")
 include("Utils.jl")
 
